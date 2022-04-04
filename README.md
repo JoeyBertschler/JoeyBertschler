@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [Joey](https://github.com/JoeyBertschler)！𝗜'𝗺 𝗮n AI specialist and consultant 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 AI, Blockchain, and NFTs.
+𝗜'𝗺 [Joey](https://github.com/JoeyBertschler)！I'm an AI specialist and consultant who is passionate about AI, Blockchain and NFTs.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joey.bertschler@gmail.com)](mailto:joey.bertschler@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/JoeyBertschler)
